@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Broly01xd
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Msc.St
-- 💞️ I’m looking to collaborate on Something Usefull
+- 👀 I’m interested in Front End Development or maybe full stack
+- ✨ For time being just Front-end
+- 🌱 Student-(Msc.St)
 - 📫 How to reach me hilalhil98@gmail.com
 
 <!---
